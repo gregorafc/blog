@@ -26,5 +26,9 @@
 # Ignore master key for decrypting credentials and more.
 /config/master.key
 
-#Database configuration
+# Database configuration
 /config/database.yml
+
+# Gemfile.lock remove from git
+Gemfile.lock
+
